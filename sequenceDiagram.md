@@ -91,6 +91,8 @@ sequenceDiagram
   end
 ```
 
+↓ Github, Notion で、 break が使えない模様…
+
 ```mermaid
 sequenceDiagram
   Consumer -->> API: Book something
